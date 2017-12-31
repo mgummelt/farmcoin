@@ -1,0 +1,5 @@
+client-socket.o: client-socket.cc client-socket.h
+server-socket.o: server-socket.cc server-socket.h
+block.o: block.cc block.h txn.h key.h utils.h
+txn.o: txn.cc key.h txn.h utils.h
+endpoint.o: endpoint.cc endpoint.h client-socket.h
