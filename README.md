@@ -10,4 +10,6 @@ The code in this repostory doesn't build, since it has few private
 Stanford dependencies, including a thread pool and a few utilities.
 It's instead meant as a starting point for students who'd like to
 learn more about the blockchain, or teachers who'd like to offer their
-own blockchain programming assignment.
+own blockchain programming assignment.  If you'd like to provide this
+assignment in your own class, please contact me and I can help you get
+started!
